@@ -8,6 +8,7 @@ setuptools.setup(
     author = 'kimbeopgi',
     author_email = 'k69121@naver.com',
     ur1 = "https://github.com/k69121/testaa",
+    download_url = "https://github.com/k69121/testaa/archive/refs/tags/asdasda.zip",
     install_requires=['pytest'],
     long_description = 'oss - dev testaa python module',
     long_description_content_type = 'text/markdown',
